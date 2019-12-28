@@ -1,0 +1,16 @@
+.gradle/
+*.iml
+*.ipr
+*.iws
+build
+.idea
+.sonar
+.idea/
+logs/
+out/
+*.pyc
+.DS_Store
+.gradletasknamecache
+gradle-app.setting
+debian/
+.configdirectory
